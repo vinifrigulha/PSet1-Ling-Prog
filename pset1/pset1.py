@@ -385,15 +385,15 @@ if __name__ == '__main__':
     # imagem_nitida.mostrar()
     imagem_nitida.salvar('results_vini/python_nitida.png')
 
-    # QUESTÃO 06 - APLICAR BORDAS DA IMAGEM 'CONSTRUCTOR.PNG'
-    imagem_constructor = Imagem.carregar('test_images/constructor.png')
+    # QUESTÃO 06 - APLICAR BORDAS DA IMAGEM 'CONSTRUCT.PNG'
+    imagem_constructor = Imagem.carregar('test_images/construct.png')
     # imagem_Ox = imagem_constructor.bordas_x()
     # imagem_Oy = imagem_constructor.bordas_y()
     imagem_bordas = imagem_constructor.bordas()
     # imagem_Ox.mostrar()       # Kernel Ox
     # imagem_Oy.mostrar()       # Kernel Oy
     # imagem_bordas.mostrar()   # Bordas Ox e Oy combinadas
-    imagem_bordas.salvar('results_vini/constructor_bordas.png')
+    imagem_bordas.salvar('results_vini/construct_bordas.png')
 
     
     pass

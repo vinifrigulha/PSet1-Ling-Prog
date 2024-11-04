@@ -171,9 +171,9 @@ class Imagem:
         Método que faz o tratamento vertical (bordas horizontais)
         """
         kernel_y = [
-            [1, 2, 1],
+            [-1, -2, -1],
             [0, 0, 0],
-            [-1, -2, -1]
+            [1, 2, 1]
         ]
 
         return self.correlacao(kernel_y)  

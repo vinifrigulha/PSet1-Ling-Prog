@@ -5,14 +5,6 @@
 #    Turma: CC6N
 #    Email: viniciusfrigulha@gmail.com
 #
-# DECLARAÇÃO DE HONESTIDADE ACADÊMICA:
-# Eu afirmo que o texto abaixo foi de minha autoria. Também afirmo que não
-# pratiquei nenhuma forma de "cola" ou "plágio" na elaboração do programa,
-# e que não violei nenhuma das normas de integridade acadêmica da disciplina.
-# Estou ciente de que todo texto enviado será verificado automaticamente
-# contra plágio e que caso eu tenha praticado qualquer atividade proibida
-# conforme as normas da disciplina, estou sujeito à penalidades conforme
-# definidas pelo professor da disciplina e/ou instituição.
 
 O PSet 1 foi aplicado no Visual Studio Code, usando Python 3.13.0 (versão mais atual na data em que foi baixado - 04/11/2024). Além disso, foi instalada a bibliote Pillow, que serviu para carregar e salvar as imagens.
 

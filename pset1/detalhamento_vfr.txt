@@ -1,0 +1,31 @@
+# IDENTIFICAÇÃO DO ESTUDANTE:
+# Preencha seus dados e leia a declaração de honestidade abaixo. NÃO APAGUE
+# nenhuma linha deste comentário de seu código!
+#
+#    Nome completo: Vinícius Frigulha Ribeiro
+#    Matrícula: 202201737
+#    Turma: CC6N
+#    Email: viniciusfrigulha@gmail.com
+#
+# DECLARAÇÃO DE HONESTIDADE ACADÊMICA:
+# Eu afirmo que o código abaixo foi de minha autoria. Também afirmo que não
+# pratiquei nenhuma forma de "cola" ou "plágio" na elaboração do programa,
+# e que não violei nenhuma das normas de integridade acadêmica da disciplina.
+# Estou ciente de que todo código enviado será verificado automaticamente
+# contra plágio e que caso eu tenha praticado qualquer atividade proibida
+# conforme as normas da disciplina, estou sujeito à penalidades conforme
+# definidas pelo professor da disciplina e/ou instituição.
+
+O PSet 1 foi aplicado no Visual Studio Code, usando Python 3.13.0 (versão mais atual na data em que foi baixado - 04/11/2024). Além disso, foi instalada a bibliote Pillow, que serviu para carregar e salvar as imagens.
+
+Para a implementação dos métodos da classe Imagem, foi utilizado o arquivo 'pset1.py', que também serviu para criar e salvar as imagens das questões na pasta 'results_vini'.
+Para execução dos testes unitários, foram utilizados os arquivos 'test.py' e as imagens das pastas 'test_images' e 'test_results'.
+
+O PSet 1 foi executado por mim, Vinícius Frigulha Ribeiro, seguindo a ordem dos capítulos. Nenhum capítulo foi feito sem a completa resolução de seu antecessor.
+Para verificar que os métodos implementados estavam corretos, foi criado um teste unitário específico para cada um dos testes solicitados no PSet, além de testes criados por mim.
+
+A primeira coisa feita por mim foi corrigir o código para que os primeiros testes unitários funcionassem. Apenas após essa correção que os métodos da classe foram implementados. Todos os ajustes feitos estão identificados por '(V.F.R.)' que serve para identificar as modificações feitas por mim.
+
+O primeiro método implementado foi o 'invertida', que tem o objetivo de inverter os pixels de uma imagem usando a lógica 'i = 255 - o', onde 'o' é o valor do pixel da imagem original e 'i' é o valor do pixel da imagem invertida. Após feito esse método, foram realizados os testes unitários da classe 'TestInvertida'.
+
+O segundo método implementado foi o
